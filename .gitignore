@@ -1,5 +1,5 @@
 .vs/
-./x64/
-./x64/Debug/
-./myRenderer/x64/Debug
-./myRenderer/x64/
+x64/
+x64/Debug/
+myRenderer/x64/Debug
+myRenderer/x64/
